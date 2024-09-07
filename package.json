@@ -1,0 +1,18 @@
+{
+  "name": "ccseleniumlogintest",
+  "version": "1.0.0",
+  "description": "contains the tests for login page",
+  "main": "loginTest.js",
+  "scripts": {
+    "test": "node loginTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.24.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^128.0.1"
+  }
+}
